@@ -22,7 +22,7 @@ Incluye:
 
 ### Contenidos de la Unidad
 
-**- Algoritmos, Pseudocódigo, Diagrama de flujo** [Algoritmos, Pseudocodigo, Diagrama de flujo](Algoritmos,-Pseudocodigo,-Diagrama-de-flujo)  
+**- Algoritmos, Pseudocódigo, Diagrama de flujo** [Algoritmos, Pseudocodigo, Diagrama de flujo.md](Algoritmos,-Pseudocodigo,-Diagrama-de-flujo.md)  
 **- Programación por bloques**  
 **- Ejemplos de algoritmos con estructuras lineales/secuenciales**  
 **- Principales dificultades en la aplicación de los contenidos**  

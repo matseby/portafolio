@@ -26,9 +26,13 @@ Incluye:
 [Algoritmos, pseudocódigo y diagrama de flujo](portafolio/Algoritmos-Pseudocodigo-Diagrama-de-flujo.md)
 
 -[Algoritmos, pseudocódigo y diagrama de flujo](#algoritmos-pseudocódigo-y-diagrama-de-flujo)
+
 **- Programación por bloques**  
+
 **- Ejemplos de algoritmos con estructuras lineales/secuenciales**  
-**- Principales dificultades en la aplicación de los contenidos**  
+
+**- Principales dificultades en la aplicación de los contenidos** 
+
 **- Reflexión crítica de los aprendizajes de la unidad**
 
 ---

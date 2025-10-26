@@ -18,13 +18,17 @@ En la parte izquierda de las aplicaciones hay una ventana que muestra todos los 
 
 **2️⃣ Arrastrar y soltar**
 Esos códigos de la terminal se los tiene que arrastrar al áre de escenario 
+
 **3️⃣ Encajar bloques**
 Todos los bloques que se arrastren encajan como rompecabezas los que no encajen no tienen porque estar allí, esto es una manera para evitar errores de sintaxis.
+
 **4️⃣ Organizar las instrucciones en orden**
 La secuencia en la que se debe ubicar los bloques es de arriba hacia abajo 
 **5️⃣ Probar el programa**
+
 Se hace clic en “Run” / “Ejecutar” o en una bandera/botón según la plataforma para ver el resultado
 **6️⃣ Modificar y mejorar**
+
 Se pueden:
 - Cambiar valores
 - Agregar nuevos bloques

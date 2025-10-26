@@ -24,11 +24,11 @@ Todos los bloques que se arrastren encajan como rompecabezas los que no encajen 
 
 **4️⃣ Organizar las instrucciones en orden**
 La secuencia en la que se debe ubicar los bloques es de arriba hacia abajo 
+
 **5️⃣ Probar el programa**
-
 Se hace clic en “Run” / “Ejecutar” o en una bandera/botón según la plataforma para ver el resultado
-**6️⃣ Modificar y mejorar**
 
+**6️⃣ Modificar y mejorar**
 Se pueden:
 - Cambiar valores
 - Agregar nuevos bloques

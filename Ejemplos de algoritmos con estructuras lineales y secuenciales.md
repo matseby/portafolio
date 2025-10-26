@@ -1,6 +1,6 @@
 # papers
 ### Algoritmos
-
+Ejemplos de algoritmos con estructuras lineales y secuenciales
 **¿Qué son?**  
 El objetivo de los algoritmos es poder ejecutarse en un computador para que 
 este a su vez capte los pasos que se le da para que realize cambios y acciones

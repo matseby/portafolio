@@ -16,8 +16,35 @@ proceso que se realiza y los resultados o datos de salida
 Los pseudocódigos son el siguiente paso para usar un lenguaje de programación, estos
 son la ejecución de los algoritmos en sistemas que soportan este tipo de pseudolenguaje.
 Para realizar estos utilizamos 
-- Diagrama de flujo  
-- Programación por bloques  
-- Ejemplos de algoritmos con estructuras lineales/secuenciales  
+
+Algoritmo CalculoIMC
+    
+   
+	// Variables 
+	Definir peso, altura, IMC Como Real
+	
+	//Datos de entrada
+	//Escribir  "Ingrese su peso" 
+	Leer peso 
+	Escribir "Ingrese  su altura"
+	Leer altura
+	
+	//Proceso 
+	IMC = peso	/ altura^2 
+	
+	//Salida
+	Escribir "SU IMC es de ", IMC 
+	Final algoritmo
+  
+
+### Diagrama de flujo  
+
+ 
+<img width="830" height="996" alt="image" src="https://github.com/user-attachments/assets/0243943a-6f20-4216-9e2e-6abfc3089eab" />
+
+
+
+ 
 - Principales dificultades en la aplicación de los contenidos  
 - Reflexión crítica de los aprendizajes de la unidad
+- 

@@ -17,7 +17,7 @@ Los pseudocódigos son el siguiente paso para usar un lenguaje de programación,
 son la ejecución de los algoritmos en sistemas que soportan este tipo de pseudolenguaje.
 Para realizar estos utilizamos 
 
-Algoritmo CalculoIMC
+Algoritmo CalculoI MC
     
    
 	// Variables 

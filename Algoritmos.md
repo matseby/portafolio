@@ -39,12 +39,27 @@ Algoritmo CalculoI MC
 
 ### Diagrama de flujo  
 
+**✅ ¿Qué son los diagramas de flujo?**
+
+Un diagrama de flujo es una representación gráfica de un algoritmo, proceso o conjunto de instrucciones, utilizando símbolos conectados por flechas que muestran el orden de ejecución.
+
+**🎯 ¿Para qué sirven?**
+
+Los diagramas de flujo permiten:
+
+✅ Comprender la lógica de un programa antes de codificarlo
+
+✅ Organizar y planificar soluciones a problemas
+
+✅ Identificar errores o pasos innecesarios
+
+✅ Comunicar ideas entre programadores y estudiantes
+
+✅ Documentar procesos o sistemas
+
  
 <img width="830" height="996" alt="image" src="https://github.com/user-attachments/assets/0243943a-6f20-4216-9e2e-6abfc3089eab" />
 
 
 
  
-- Principales dificultades en la aplicación de los contenidos  
-- Reflexión crítica de los aprendizajes de la unidad
-- 

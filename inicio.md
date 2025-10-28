@@ -22,7 +22,7 @@ Incluye:
 
 ### Contenidos de la Unidad
 
-**[Algoritmos, pseudocódigo y diagrama de flujo](portafolio/blob/main/Algoritmos.md)** 
+**[Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos.md)** 
 
 **- Programación por bloques**  
 

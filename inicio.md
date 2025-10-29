@@ -3,7 +3,7 @@
 **CARRERA: Computación**
 
 ---
-### 🖼️ Carátula
+## 🖼️ Carátula
 
 ## **Universidad Nacional de Loja**
 

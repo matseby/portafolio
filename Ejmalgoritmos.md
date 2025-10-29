@@ -3,7 +3,7 @@
 
 **Algoritmo IMC**
 	
-	// Variables 
+	//Variables 
 	Definir peso, altura, IMC Como Real
 	
 	//Datos de entrada
@@ -42,7 +42,7 @@
     printf("Su IMC es: %.2f\n", imc);
 
     return 0;
-    }
+    }\\\
 
 ## ♣️ Terminal con el resultado del código
 

@@ -6,4 +6,4 @@
 
 **[Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](construccion.md)** 
 
-**[Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseñoalgoritmo.md)**UN
+**[Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseñoalgoritmo.md)**

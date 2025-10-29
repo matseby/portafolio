@@ -3,18 +3,21 @@
 **CARRERA: Computación**
 
 ---
-
-## ✅ Secciones recomendadas del Portafolio
-
 ### 🖼️ Carátula
-Incluye:
-- Institución: Universidad Nacional de Loja
-- Carrera  Computación
-- Asignatura  Teoría de la programación 
-- Ciclo  1er Ciclo
-- Período académico  Septiembre 2025-febrero 2026
-- Docente  Ing. Lissete López
-- Estudiante  Mateo Yanangómez
+
+## **Universidad Nacional de Loja**
+
+## **Computación**
+
+## **Asignatura  Teoría de la programación** 
+
+## **Ciclo  1er Ciclo**
+
+## **Período académico  Septiembre 2025-febrero 2026**
+
+## **Docente  Ing. Lissete López**
+
+## **Estudiante  Mateo Yanangómez**
 
 ---
 

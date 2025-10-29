@@ -46,3 +46,10 @@
 **[Primer acercamiento a la construcción de algoritmos con estructuras secuenciales en pseudocódigo](construccion.md)** 
 
 **[Del diseño del algoritmo con estructuras secuenciales a la construcción del programa](diseñoalgoritmo.md)**  
+
+## ○ Unidad 2 (no aplica).
+## ○ Unidad 3 (no aplica).
+## ○ Conclusiones generales (no aplica).
+## ○ Bibliografía (formato IEEE).
+## ○ Declaración de uso de la IA generativa.
+

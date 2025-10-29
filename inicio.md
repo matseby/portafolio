@@ -24,7 +24,7 @@ Incluye:
 
 **[Algoritmos, pseudocódigo y diagrama de flujo](Algoritmos.md)** 
 
-**- Programación por bloques**  
+**[Programación por bloques](Pbloque.md)**  
 
 **- Ejemplos de algoritmos con estructuras lineales/secuenciales**  
 

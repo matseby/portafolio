@@ -19,10 +19,6 @@
 
 ## **Estudiante  Mateo Yanangómez**
 
-
-
-## ○ Unidad 2 (no aplica).
-## ○ Unidad 3 (no aplica).
 ## ○ Conclusiones generales (no aplica).
 ## ○ Bibliografía (formato IEEE).
 ## ○ Declaración de uso de la IA generativa.

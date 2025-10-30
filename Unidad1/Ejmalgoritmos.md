@@ -3,7 +3,8 @@
 ## 🎨 Pseint
 
 **Algoritmo IMC**
-	
+
+**Aquí usamos la fórmula y el proceso de realizar un análisis para sacar el índice de masa corporal de una persona trasladando esa información a psedocódigo y posterior a eso a lenguajes de alto nivel (lenguaje C).**
 	//Variables 
 	Definir peso, altura, IMC Como Real
 	
@@ -21,11 +22,13 @@
 	Final algoritmo
 
   ## 🕹️ Diagrama de flujo 
-
+**El diagrama de flujo indicado aquí es sacado de la aplicación pseint del código anterior y refleja el proceso que se realizó.**
 
   **<img width="830" height="996" alt="image" src="https://github.com/user-attachments/assets/7c8ebc98-d82a-484f-af65-791ba85014fa" />**
 
   ## 🧩 Código en C
+
+**El psuedocódigo pre elaborado se lo traspasa a lenguaje de programación utilizando las directrices que este pida utilizando librerias, temas de compilación y otras palabras propias del lenguaje como float, int, double y chart en este caso se uso el float para realizar cálculos que pueden acabar en decimal.**
 
     #include <stdio.h>
 
@@ -46,6 +49,10 @@
     }\\\
 
 ## ♣️ Terminal con el resultado del código
+**Por último se utiliza la terminal para compilar el código hecho en C, con el comando:
+gcc nombrearchivo.c -o nombrearchivo.
+Luego para iniciar el programa ya compilado se utliza:
+.\nombrearchivo.exe**
 
 <img width="591" height="240" alt="image" src="https://github.com/user-attachments/assets/43163e6c-3be0-4cbc-8651-2358c884735e" />
 

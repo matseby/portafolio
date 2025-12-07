@@ -3,16 +3,39 @@
 La estructura if permite a los programas decidir cuando se ejecutan esto por medio de una sentencia o un bloque de sentencias,
 esto al momento de ejecutarse en caso de que la condición sea verdadera dará el resultado. 
 
-## Diagrama de flujo
-
 <img width="525" height="324" alt="image" src="https://github.com/user-attachments/assets/091e2757-405b-41d6-a1a5-cdf54d5bba98" />
-
 
 En este diagrama de flujo se muestra la estructura de com ose arma la condicional en el código o algoritmo principal.
 
 - El rombo: Muestra la condición, las desiciones que indican el camino por donde el algoritmo debe continuar,
 dependiendo si la evaluacion del resultado es verdadera o falsa.
 - Si la ecuación es verdadera el sistema evalúa la respuesta y manda un resultado continuando con el código.
+
+### ** La estructura del if else**
+Esta estructura se compone ahora ya no solo de la verdad sino que tambien nos arroja un resultado si al sistema ingresa una respuesta de falsedad,
+lo que lleva a otro apartado donde si se cumple la segunda condición el resultado cambiará.
+
+<img width="526" height="324" alt="image" src="https://github.com/user-attachments/assets/7b8182f1-9091-4c3b-b3ed-880d235e9989" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Código en C y pruebas de escritorio
 

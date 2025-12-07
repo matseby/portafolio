@@ -1,4 +1,4 @@
-# **Estructuras de Control 📝**
+# **Estructuras de Control (Condicionales) 📝**
 ### La estructura if ✅
 La estructura if permite a los programas decidir cuando se ejecutan esto por medio de una sentencia o un bloque de sentencias,
 esto al momento de ejecutarse en caso de que la condición sea verdadera dará el resultado. 
@@ -24,6 +24,11 @@ se vayan las respuestas que no esten dentro de los casos principales.
 
 **<img width="547" height="474" alt="image" src="https://github.com/user-attachments/assets/f25b8528-054e-4efd-b88d-3cb14fa0b4ca" />**
 
+# **Estructuras repetitivas (bucles) ✔️**
+### Ciclo while
+
+while ( < expresión booleana > )
+proposición o bloque >
 
 
 

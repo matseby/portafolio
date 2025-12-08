@@ -1,6 +1,6 @@
 # Actividades de aprendizaje práctico experimental
 
-## Priemra actividad
+## Primera actividad
 [Aplicación de estructuras repetitivas en la resolución de problemas.pdf](https://github.com/user-attachments/files/24023162/Aplicacion.de.estructuras.repetitivas.en.la.resolucion.de.problemas.pdf)
 
 ## Segunda actividad

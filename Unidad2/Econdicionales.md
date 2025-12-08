@@ -32,6 +32,9 @@ Como no incluye un bloque de inicialización, normalmente se realizan las inicia
 Tampoco tiene una sección específica para la actualización de valores, por lo que es habitual hacer los cambios dentro del ciclo para que, 
 en algún momento, la condición booleana se vuelva falsa y el ciclo finalice, permitiendo continuar con las siguientes instrucciones del programa.
 
+** <img width="295" height="325" alt="image" src="https://github.com/user-attachments/assets/562c4a09-01c8-465e-9c7b-fc8e79949362" /> **
+
+
 ### Ciclo Do while
 
 El ciclo do-while funciona de forma parecida al while, pero con una diferencia clave: en el while la condición booleana se 

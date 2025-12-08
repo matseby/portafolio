@@ -27,9 +27,16 @@ se vayan las respuestas que no esten dentro de los casos principales.
 # **Estructuras repetitivas (bucles) ✔️**
 ### Ciclo while
 
-while ( < expresión booleana > )
-proposición o bloque >
+En esta estructura, la proposición o el bloque de instrucciones se ejecuta mientras la condición booleana sea verdadera.
+Como no incluye un bloque de inicialización, normalmente se realizan las inicializaciones necesarias antes de la instrucción while.
+Tampoco tiene una sección específica para la actualización de valores, por lo que es habitual hacer los cambios dentro del ciclo para que, 
+en algún momento, la condición booleana se vuelva falsa y el ciclo finalice, permitiendo continuar con las siguientes instrucciones del programa.
 
+### Ciclo Do while
+
+El ciclo do-while funciona de forma parecida al while, pero con una diferencia clave: en el while la condición booleana se 
+evalúa antes de ejecutar el bloque, mientras que en el do-while la condición se revisa al final.
+Esto hace que el bloque del do-while se ejecute al menos una vez, sin importar si la condición es verdadera o falsa al inicio.
 
 
 

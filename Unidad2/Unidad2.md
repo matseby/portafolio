@@ -1,6 +1,6 @@
-## ○ Unidad 2
-### [Volver al inicio](inicio.md)
+# ○ Unidad 2
 
+## Contenidos de la Unidad
 ### **[Estructuras condicionales y repetitivas♦️](Econdicionales.md)**
 ### **[Ejercicios con las estructuras♠️](Ejercicios.md)**
 ### **[Ejercicio combinando estructuras hecho en python♣️](Ecombinado.md)**

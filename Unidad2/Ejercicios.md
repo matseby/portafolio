@@ -61,6 +61,12 @@
 
 ### **DO WHILE**
 
+**Diagrama de flujo**
+
+<img width="1401" height="986" alt="image" src="https://github.com/user-attachments/assets/ef9d7891-7c93-45d9-b288-f54f6ce34254" />
+
+**Código en C**
+
 <img width="596" height="407" alt="image" src="https://github.com/user-attachments/assets/d638cd64-d2ff-4191-8d30-45b5e961fbde" />
 
 **Prueba de la terminal**
@@ -68,6 +74,12 @@
 <img width="529" height="120" alt="image" src="https://github.com/user-attachments/assets/b852cd99-cd19-423e-a14c-843714b81b5c" />
 
 ### **FOR**
+
+**Diagrama de flujo**
+
+<img width="1081" height="983" alt="image" src="https://github.com/user-attachments/assets/1c0da51a-443d-426e-83d2-bb6c6fb237b7" />
+
+**Código en c**
 
 <img width="553" height="322" alt="image" src="https://github.com/user-attachments/assets/87075a4d-fd61-4f78-bdc2-4d5cbd957781" />
 

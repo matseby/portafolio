@@ -1,5 +1,4 @@
 ## 📚 Unidad 1
-### [Volver a la Unidad 1](inicio.md)
 
 ### Contenidos de la Unidad
 

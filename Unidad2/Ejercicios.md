@@ -2,7 +2,7 @@
 
 ## Estructuras condicionales
 
-### **IF**
+### IF
 
 **Diagrama de flujo**
 
@@ -16,7 +16,7 @@
 
 <img width="716" height="154" alt="image" src="https://github.com/user-attachments/assets/56504943-0d19-4d02-9392-6f480d8f8ea6" />
 
-### **IF ELSE**
+### IF ELSE
 
 **Diagrama de flujo**
 
@@ -30,7 +30,7 @@
 
 <img width="608" height="188" alt="image" src="https://github.com/user-attachments/assets/bba06664-4499-46a4-950f-ad463cfe7c37" />
 
-### **SWITCH**
+### SWITCH
 
 **Diagrama de flujo**
 <img width="1299" height="578" alt="image" src="https://github.com/user-attachments/assets/0a391199-92f0-48db-ac51-77ca79edbf1f" />
@@ -45,7 +45,7 @@
 
 ## Estructuras repetitivas
 
-### **WHILE**
+### WHILE
 
 **Diagrama de flujo**
 
@@ -59,7 +59,7 @@
 
 <img width="569" height="202" alt="image" src="https://github.com/user-attachments/assets/cfc4dc16-bc77-40f3-bfe4-37deff406cb8" />
 
-### **DO WHILE**
+### DO WHILE
 
 **Diagrama de flujo**
 
@@ -73,7 +73,7 @@
 
 <img width="529" height="120" alt="image" src="https://github.com/user-attachments/assets/b852cd99-cd19-423e-a14c-843714b81b5c" />
 
-### **FOR**
+### FOR
 
 **Diagrama de flujo**
 

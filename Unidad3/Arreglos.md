@@ -1,7 +1,6 @@
 # ■ Arreglos
 ### [Volver a la Unidad 3](Unidad3.md)
-Un arreglo en C es una estructura que permite almacenar varios datos del mismo tipo en 
-posiciones consecutivas de memoria, accediendo a ellos mediante índices que comienzan desde 0.
+Los arreglos son estructuras de datos que permiten almacenar múltiples valores del mismo tipo bajo un solo nombre, organizados en posiciones consecutivas de memoria y accesibles mediante índices. Su uso facilita el manejo de grandes cantidades de datos de forma ordenada y eficiente, ya que permite recorrer, modificar y procesar los elementos de manera sistemática, mejorando la claridad del código y optimizando el uso de recursos en un programa.
 
 ### Arreglo Unidireccional (Listas):
 

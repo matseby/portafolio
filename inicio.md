@@ -27,7 +27,7 @@
 
 
 ---
-## ○ Conclusiones generales
+## ○ [Conclusiones generales](ConclusionesG.md)
 ## ○ Bibliografía (formato IEEE).
-## ○ Declaración de uso de la IA generativa.
+## ○ [Declaración de uso de la IA generativa](UsoIA)
 ---

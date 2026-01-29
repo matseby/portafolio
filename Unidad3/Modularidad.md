@@ -2,8 +2,7 @@
 
 ### [Volver a la Unidad 3](Unidad3.md)
 
-La modularidad consiste en dividir un programa grande en módulos o subprogramas (funciones o procedimientos) más pequeños.
-Cada módulo cumple una tarea específica, lo que hace que el programa sea:
+La modularidad es un principio de la programación que consiste en dividir un programa complejo en módulos o funciones pequeñas e independientes, donde cada una cumple una tarea específica y se comunica con las demás mediante parámetros y valores de retorno. Este enfoque permite una mejor organización del código, facilita su comprensión, mantenimiento y depuración, reduce errores y mejora la calidad del software, además de promover la reutilización de módulos en diferentes programas o partes de un mismo sistema.
 
 **- Más fácil de entender**
 
